@@ -23,6 +23,6 @@ $\textbf{Figure 2:}\text{ EcSolticia's GitHub contribution stats are apparently 
 
 $\textbf{Random Fun Fact}$
 
-$\text{The sole purpose of this section is to place at least one mathematical formula on my README}.$
+$\text{The sole purpose of this section is to place at least one mathematical formula the author's README}.$
 
 $e^{i\theta} = \cos(\theta) + i\sin(\theta)$
