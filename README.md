@@ -1,20 +1,10 @@
+# Hi! 
+My legal first name is Miftahul and I am interested in Mathematics, Computer Simulations, Scientific Computing and Game Development/Design.
 
-$$\large{\textbf{EcSolticia's README.md}}$$
+In some places on the internet, I may refer to myself as "Quinn EcSolticia". Don't be confused, though, that's simply a pseudonym!
 
-$$\textbf{EcSolticia}$$
-
-$\textbf{Interests}$
-
-$\text{Mathematics, Computer Simulation, Scientific Computing, and Game Dev/Design.}$
-
-<hr>
-
-$\textbf{Stats}$
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecsolticia&layout=compact)
-
-$\textbf{Figure 1:}\text{ EcSolticia's most used languages on GitHub are \textit{Python} and \textit{C++}.}$
+# Some Pointless Stats and Figures
 
 ![https://projecteuler.net/profile/ecsolticia.png](https://projecteuler.net/profile/ecsolticia.png)
 
-$\textbf{Figure 2:}\text{ Project Euler problems are starting to tickle EcSolticia's fancy!}$
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecsolticia&layout=compact)
